@@ -21,19 +21,19 @@ public class SsnDemo {
                  * */
 	
 	int a1 = 9;
-	int a2 = 6;
+	int a2 = 7;
 	int a3 = 0;
-	int a4 = 1;
-	int a5 = 0;
-	int a6 = 1;
+	int a4 = 5;
+	int a5 = 1;
+	int a6 = 2;
 
-	int b1 = 2;
+	int b1 = 1;
 	int b2 = 0;
-	int b3 = 4;
-	int b4 = 1;
-	int b5 = 9;
-	int b6 = 1;
-	int b7 = 5;
+	int b3 = 6;
+	int b4 = 7;
+	int b5 = 3;
+	int b6 = 8;
+	int b7 = 1;
 	
 	int sum = a1*2 + a2*3 + a3*4 + a4*5 + a5*6 + a6*7 +
 			b1*8 + b2*9 + b3*2 + b4*3 + b5*4 + b6*5;
